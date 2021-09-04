@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+.image{
+
+    height: 160px;
+    width: auto;
+}
+
+.card-title{
+
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    padding-top: 12px;
+    padding-left: 12px;
+}
+
+.card-text{
+
+    line-height: 25px;
+    font-size: 14px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+span{
+
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+}
+
+.card-design{
+
+    border: 1px solid white;
+    border-radius: 6px;
+    height: 370px;
+   
+}
+
+.row-design{
+
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+
